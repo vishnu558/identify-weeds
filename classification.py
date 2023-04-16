@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
-
+# here training data is a folder collection of all three folders as i don't know how to add all in git I did like this
 data_dir = r"C:\Users\G Vishnu Kailash\OneDrive\Desktop\trainig data"
 
 
